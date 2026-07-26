@@ -5,7 +5,7 @@
 [![DevOps](https://img.shields.io/badge/DevSecOps-Automation-blue?style=for-the-badge)](https://github.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-Welcome to **Project01** — a modular, scalable, and reusable **Infrastructure as Code (IaC)** project designed to automate the provisioning of Microsoft Azure cloud resources using **Terraform**. 
+Welcome to **azure-terraform-modular-iac** — a modular, scalable, and reusable **Infrastructure as Code (IaC)** project designed to automate the provisioning of Microsoft Azure cloud resources using **Terraform**. 
 
 This repository showcases enterprise-grade cloud automation practices, modular architecture design, and multi-tier environment provisioning.
 
