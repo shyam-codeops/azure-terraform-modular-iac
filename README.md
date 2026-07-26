@@ -205,7 +205,7 @@ terraform destroy
 
 ---
 
-## 🔐 Security & Best Practices
+## 🔐 Security & Best Practices (Future Plan)
 
 When extending or deploying this project in production environments, consider the following DevSecOps recommendations:
 
