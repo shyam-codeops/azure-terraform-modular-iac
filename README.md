@@ -93,7 +93,7 @@ flowchart TD
 The codebase is organized into **Child Modules** (reusable building blocks) and **Environments** (specific deployment configurations):
 
 ```text
-Project01/
+azure-terraform-modular-iac/
 ├── Child_Modules/                   # Reusable Terraform Modules
 │   ├── azurem_virtual_machine/      # Virtual Machine module
 │   ├── azurerm_network_interface/   # Network Interface (NIC) module
